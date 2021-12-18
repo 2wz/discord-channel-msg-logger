@@ -25,7 +25,7 @@ token = config.get("token")
 os.system('cls')
 
 print(f"{Fore.WHITE}[ {Fore.CYAN}/ {Fore.WHITE}] {Fore.LIGHTBLACK_EX}Discord message logger by {Fore.WHITE}$€a#0001{Fore.LIGHTBLACK_EX}")
-print(f"{Fore.WHITE}[ {Fore.CYAN}/ {Fore.WHITE}] {Fore.LIGHTBLACK_EX}CREDITS : {Fore.WHITE}https://github.com/")
+print(f"{Fore.WHITE}[ {Fore.CYAN}/ {Fore.WHITE}] {Fore.LIGHTBLACK_EX}CREDITS : {Fore.WHITE}https://github.com/2wz")
 
 print(f"\n{Fore.WHITE}[ {Fore.GREEN}+ {Fore.WHITE}] {Fore.LIGHTBLACK_EX}ready! to log")
 print(f"{Fore.WHITE}[ {Fore.YELLOW}* {Fore.WHITE}] {Fore.LIGHTBLACK_EX}Write {Fore.WHITE}logger.log <number>{Fore.LIGHTBLACK_EX} to log them\n")
